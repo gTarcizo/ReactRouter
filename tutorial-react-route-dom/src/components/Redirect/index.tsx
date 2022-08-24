@@ -20,8 +20,9 @@ export const Redirect = () => {
     }, [time])
 
     return (
-    <div>
-        <h1>Getting out of here in: {time}</h1>
+    <div className='redirect'>
+        <h1>Redirecting!</h1>
+        <h3>Getting out of here in: {time}</h3>
     </div>
     )
 }

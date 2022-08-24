@@ -1,0 +1,8 @@
+.redirect h3{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 100px;
+}
